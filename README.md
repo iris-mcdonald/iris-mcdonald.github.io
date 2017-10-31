@@ -11,7 +11,7 @@ The Steps I Took
 6)  Worked through the changes, except for linking to my resume, and loading to GitHub.
 7)  Completed workshops at Tri-C Westshore: Resumes That Get Results, Classroom to Career, and Ace That Interview
 8)  Completed resume and uploaded to Google Docs. Added an anchor element to my project file, with my resume's href attribute.
-9)  Read tutorials about using GitHub 10 Loaded project to GitHub, and added my notes to the Readme file.
+9)  Read tutorials about using GitHub, loaded project to GitHub, and added my notes to the Readme file.
 10) Watched the video re: technical interviews
 
 Challenges
